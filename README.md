@@ -1,4 +1,4 @@
-# BlackCarbon_RobustProxy
+# Black Carbon Robust Proxy
 
 Black carbon virtual sensor using ML proxy models
 
